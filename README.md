@@ -11,4 +11,5 @@
 - Demonstrate how to invoke an AWS Lambda function to log the state of an Amazon EC2 instance.
 - Demonstrate how to create an Amazon EventBridge rule to monitor the state of the EC2 instance by using a Lambda function.
 - Amazon services used : Amazon CloudWatch, Amazon Elastic Compute Cloud, Amazon EventBridge, AWS Lambda
-- <img width="841" height="640" alt="Screenshot 2026-03-16 at 8 22 54 PM" src="https://github.com/user-attachments/assets/229b22b1-ca62-40ea-8349-42a48adcc40a" />
+- <img width="842" height="614" alt="Screenshot 2026-03-16 at 9 28 27 PM" src="https://github.com/user-attachments/assets/405573cd-ace7-4421-bac1-4e6a659550bf" />
+
