@@ -15,3 +15,10 @@
 - <img width="1440" height="900" alt="Screenshot 2026-03-14 at 6 56 37 PM" src="https://github.com/user-attachments/assets/331f897c-632e-47b2-9908-f151356ab6e3" />
 - <img width="842" height="614" alt="Screenshot 2026-03-16 at 9 28 27 PM" src="https://github.com/user-attachments/assets/405573cd-ace7-4421-bac1-4e6a659550bf" />
 
+## Project 3 :
+- Objective:
+- Determine how to create an Amazon EC2 instance and an Amazon EBS volume.
+- Determine how to create an AMI from the instance.
+- Determine how to terminate the EC2 instance and delete the EBS volume.
+- Amazon services used: Amazon Elastic Compute Cloud
+- 
