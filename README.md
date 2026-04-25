@@ -56,6 +56,6 @@ I am currently building independent projects — each one designed from scratch,
 with architecture decisions, documentation, and deployment done entirely by me. 
 As projects go live, I will link them here.
 ##
-Part of AWS CCP preparation | AWS Certified Cloud Practitioner achieved April 3, 2026
-Credential ID: 4c140c1e9cae439b89b1f35a03d48ac1
-
+  - Part of AWS CCP preparation | AWS Certified Cloud Practitioner achieved April 3, 2026
+  - Credential ID: 4c140c1e9cae439b89b1f35a03d48ac1
+##
