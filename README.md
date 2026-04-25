@@ -1,4 +1,4 @@
-# AWS Simulearn Labs 
+# AWS Guided Hands-on Labs 
 Guided labs completed during AWS Certified Cloud Practitioner preparation (AWS Skill
 Builder, 33-hour course). These are structured lab exercises — not independent projects.
 Each lab used real AWS services in the AWS Management Console under guided objectives.
@@ -50,7 +50,11 @@ point-in-time snapshot used for backup or to launch identical instances.
   - <img width="841" height="654" alt="Screenshot 2026-03-19 at 6 23 22 PM" src="https://github.com/user-attachments/assets/22a99e29-29f7-4c34-8e0d-c4c7dc94d8a2" />
 
 ##
-**What comes next:** These guided labs gave me the foundation to build independently. I am currently focussed on building independent projects to enhance my skills over AWS web services. The Upcoming projects will showcase more of my practical strengths rather than theoretical learnings. 
+**What comes next:** These guided labs gave me hands-on console experience 
+across 7 AWS services and the foundation to start building independently. 
+I am currently building independent projects — each one designed from scratch, 
+with architecture decisions, documentation, and deployment done entirely by me. 
+As projects go live, I will link them here.
 ##
 Part of AWS CCP preparation | AWS Certified Cloud Practitioner achieved April 3, 2026
 Credential ID: 4c140c1e9cae439b89b1f35a03d48ac1
